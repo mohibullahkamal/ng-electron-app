@@ -1,1 +1,1 @@
-# ng-electron-app
+# Angular - Electron Project
