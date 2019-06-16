@@ -1,0 +1,19 @@
+{
+  "name": "ng-electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohibullahkamal/ng-electron-app.git"
+  },
+  "author": "Mohibullah Kamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohibullahkamal/ng-electron-app/issues"
+  },
+  "homepage": "https://github.com/mohibullahkamal/ng-electron-app#readme"
+}
