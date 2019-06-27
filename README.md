@@ -5,4 +5,5 @@ Technologies used:
 - Angular 7
 - Typescript
 - Bootstrap
+- Angular Material
 - SCSS
